@@ -1,0 +1,1 @@
+<footer>&copy;2021 Leslie den Adel, <?php echo date("F j, Y, g:i a")?></footer>
